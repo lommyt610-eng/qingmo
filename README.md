@@ -195,6 +195,20 @@ An AI-powered platform for producing comic-style short videos end-to-end — fro
 
 ---
 
+## 交流群 · Community
+
+<div align="center">
+
+扫码加入微信交流群，一起聊 AI 漫剧创作：
+
+<img src="assets/wechat-group.jpg" alt="微信交流群" width="280" />
+
+<sub>二维码过期后会更新，也可以在 Issue 里留言联系</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 **青墨 QingMo** — 用 AI 把故事变成漫剧
